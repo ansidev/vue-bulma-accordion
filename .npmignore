@@ -1,6 +1,0 @@
-config/
-node_modules/
-.eslintignore
-.eslitnrc.js
-.gitignore
-src/
